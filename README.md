@@ -1,4 +1,4 @@
-  ## __ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ __ ¡WELCOME! __ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ __
+  ## __ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ __ ¡WELCOME! __ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ __
 
 ### 👋 Greetings , esteemed traveler of my GitHub domain. I bid you a warm welcome. 
 ####   💻 I`m currently studying, at Laboratoria, to become a front-end developer
